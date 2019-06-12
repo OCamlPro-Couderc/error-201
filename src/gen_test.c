@@ -16,4 +16,4 @@ void gen_test(char *str, int shift)
 
     free(res1);
     free(res2);
-}
+
