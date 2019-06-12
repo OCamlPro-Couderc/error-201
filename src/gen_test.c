@@ -15,5 +15,5 @@ void gen_test(char *str, int shift)
     printf("Result:       %s\n", res2);
 
     free(res1);
-    free(res2);
-
+    free(res2)
+}
